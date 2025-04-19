@@ -1,4 +1,4 @@
-# Hyperbolic Node Run Guide
+# Hyperbolic Node Run
 
 - No need high end PC or Laptop to start node
 - You can run node using mobile phone also
